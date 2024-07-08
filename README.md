@@ -1,5 +1,5 @@
 - Hi, I’m @ananyaslnkh
-- I’m currently learning full stack development and AI & expert systems
+- I’m currently learning full stack development 
 - Pronouns: she/her
 - Passionate about coding and design
 
