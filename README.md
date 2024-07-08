@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ananyaslnkh
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning full stack development and AI & expert systems
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: passionate about coding and design
 
